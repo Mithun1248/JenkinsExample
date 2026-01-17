@@ -1,3 +1,5 @@
 spring:
   application:
     name: SpringBootEC2DemoApp
+server:
+  port: 2345

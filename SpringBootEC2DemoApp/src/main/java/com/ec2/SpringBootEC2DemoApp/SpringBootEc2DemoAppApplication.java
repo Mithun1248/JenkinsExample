@@ -16,6 +16,7 @@ public class SpringBootEc2DemoAppApplication {
     @PostConstruct
     public void startupLog() {
         System.out.println("APP STARTED VIA JENKINS AT " + LocalDateTime.now());
+        System.out.println("Mithun is on the floor");
     }
 
 
