@@ -15,7 +15,5 @@ public class HelloController {
     public String helloMotherIndia() {
         return "Hello from Mother India deployed app";
     }
-
-    @GetMapping
 }
 
